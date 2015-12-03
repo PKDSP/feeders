@@ -1,0 +1,157 @@
+    137 | Vcenter-platform             | CHECK_POWERSTATUS         | OK            | STOPPED
+    137 | Vcenter-platform             | CHECK_BOOT_STATUS         | OK            | UNKNOWN
+      6 | 1WH8Q22-sPar-1444892583277   | POLL_SPAR_SEL             | OK            | /usr/local/ffm/nagios/etc/seekfiles/172.29.1.253-seekfile ........Total records:0 Time taken :1444892541 
+      6 | 1WH8Q22-sPar-1444892583277   | CHECK_SPAR_STATUS         | OK            | UNKNOWN sPar is not reachable
+      2 | localhost                    | CHECK_LOCAL_CPU           | OK            | 1
+    134 | sles111444891930737          | CHECK_PARTITION_STATUS    | OK            | DISABLED
+    132 | sles11_1444048617            | CHECK_PARTITION_STATUS    | OK            | STOPPED
+      7 | sles11_1444048492            | CHECK_PARTITION_STATUS    | OK            | STOPPED
+    131 | 2581                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    130 | 2580                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    129 | 2579                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    128 | 2578                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    127 | 2577                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    126 | 2576                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    125 | 2575                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    124 | 2574                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    123 | 2573                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    122 | 2572                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    121 | 2571                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    120 | 2570                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    119 | 2569                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    118 | 2568                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    117 | 2567                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    116 | 2566                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    115 | 2565                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    114 | 2564                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    113 | 2563                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    112 | 2562                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    111 | 2561                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    110 | 1830                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    109 | 1829                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    108 | 1828                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    107 | 1827                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    106 | 1826                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    105 | 1825                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    104 | 1824                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    103 | 1823                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    102 | 1822                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    101 | 1821                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+    100 | 1820                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     99 | 1819                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     98 | 1818                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     97 | 1817                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     96 | 1816                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     95 | 1815                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     94 | 1814                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     93 | 1813                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     92 | 1812                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     91 | 1811                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     90 | 1810                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     89 | 1809                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     88 | 1808                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     87 | 1807                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     86 | 1806                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     85 | 1805                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     84 | 1804                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     83 | 1803                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     82 | 1802                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     81 | 1801                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     80 | 1800                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     79 | 1799                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     78 | 1798                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     77 | 1797                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     76 | 1796                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     75 | 1795                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     74 | 1794                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     73 | 1793                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     72 | 1062                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     71 | 1061                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     70 | 1060                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     69 | 1059                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     68 | 1058                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     67 | 1057                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     66 | 1056                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     65 | 1055                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     64 | 1054                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     63 | 1053                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     62 | 1052                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     61 | 1051                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     60 | 1050                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     59 | 1049                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     58 | 1048                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     57 | 1047                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     56 | 1046                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     55 | 1045                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     54 | 1044                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     53 | 1043                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     52 | 1042                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     51 | 1041                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     50 | 1040                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     49 | 1039                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     48 | 1038                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     47 | 1037                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     46 | 1036                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     45 | 1035                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     44 | 1034                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     43 | 1033                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     42 | 1032                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     41 | 1031                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     40 | 1030                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     39 | 1029                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     38 | 1028                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     37 | 1027                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     36 | 1026                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     35 | 1025                         | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     34 | 277                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     33 | 276                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     32 | 275                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     31 | 274                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     30 | 273                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     29 | 272                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     28 | 271                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     27 | 270                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     26 | 269                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     25 | 268                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     24 | 267                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     23 | 266                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     22 | 265                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     21 | 264                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     20 | 263                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     19 | 262                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     18 | 261                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     17 | 260                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     16 | 259                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     15 | 258                          | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     14 | Test-SF                      | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+     13 | IP-LAN                       | CHECK_SECUREFABRIC_HEALTH | OK            | OK
+      9 | sles11-31444227546520        | CHECK_PARTITION_ALIVE     | OK            | PING OK - Packet loss = 0%, RTA = 2.46 ms
+      8 | sles11-2-edited1444227438751 | CHECK_PARTITION_ALIVE     | OK            | PING OK - Packet loss = 0%, RTA = 1.88 ms
+      5 | 1WH8Q22-1444892583276        | CHECK_PMC_SEL             | OK            | 0CRITICAL-0WARNING
+      5 | 1WH8Q22-1444892583276        | CHECK_POWERSTATUS         | OK            | RUNNING
+      3 | FMP-1                        | CHECK_PMC_SEL             | OK            | 0CRITICAL-0WARNING
+      2 | localhost                    | CHECK_HA_STATUS           | OK            | {&quot;highavailability&quot;:{&quot;fmp1&quot;:{&quot;name&quot;:&quot;Unknown&quot;,&quot;status&quot;:&quot;Unknown&quot;,&quot;service&quot;:&quot;Unknown&quot;,&quot;drdbstatus&quot;:&quot;Unknown&quot;},&quot;fmp2&quot;:{&quot;name&quot;:&quot;Unknown&quot;,&quot;status&quot;:&quot;Unknown&quot;,&quot;service&quot;:&quot;Unknown&quot;,&quot;drdbstatus&quot;:&quot;Unknown&quot;}},&quot;txtmsg&quot;:&quot;Unknown&quot;}
+      2 | localhost                    | CHECK_LOCAL_MEMORY        | OK            | 22
+      2 | localhost                    | CHECK_LOCAL_SWAP          | OK            | 100
+      2 | localhost                    | CHECK_LOCAL_DISK          | OK            | 95
+      4 | FMP-2                        | POLL_PMC_SEL              | OK            | 0
+      4 | FMP-2                        | CHECK_PMC_SEL             | OK            | OK
+      4 | FMP-2                        | CHECK_POWERSTATUS         | OK            | RUNNING
+      3 | FMP-1                        | CHECK_POWERSTATUS         | OK            | RUNNING
+    135 | ffm-partition1444892218357   | CHECK_PARTITION_STATUS    | RUNNING       | DISABLED
+    136 | sles121444892057149          | CHECK_PARTITION_STATUS    | RUNNING       | DISABLED
+    133 | sles11_1444048731            | CHECK_PARTITION_STATUS    | RUNNING       | DISABLED
+    137 | Vcenter-platform             | CHECK_PMC_SEL             | WARNING       | 0CRITICAL-1WARNING
+    137 | Vcenter-platform             | POLL_PMC_SEL              | WARNING       | events ipmi_sel_parse: internal IPMI error 133Fatal error: ipmi_sel_parse: internal IPMI error
+      9 | sles11-31444227546520        | CHECK_PARTITION_STATUS    | WARNING       | DISABLED
+      8 | sles11-2-edited1444227438751 | CHECK_PARTITION_STATUS    | WARNING       | DISABLED
+      6 | 1WH8Q22-sPar-1444892583277   | CHECK_SPAR_SEL            | WARNING       | 0CRITICAL-2WARNING
+      5 | 1WH8Q22-1444892583276        | POLL_PMC_SEL              | WARNING       | Fatal error:
+      3 | FMP-1                        | POLL_PMC_SEL              | WARNING       | &lt;IPMI_SEL MonitorServer=&quot;localhost&quot; Host=&quot;FMP-1&quot; Device=&quot;172.29.254.254&quot; Id=&quot;1&quot; ReportDate=&quot;Oct-02-2015 15:17:22&quot; sensorName=&quot;SEL&quot; sensorType=&quot;Event Logging Disabled&quot; State=&quot;Informational&quot; eventDir=&quot;Assertion Event&quot; TextMessage=&quot;Log Area Reset/Cleared [Assertion Event]&quot; hexDump=&quot;RID:[01][00] RT:[02] TS:[02][A0][0E][56] GID:[20][00] ER:[04] ST:[10] SN:[72] EDIR:[6F] ED1: [02] ED2: [FF] ED3: [FF]&quot; /&gt;   1
+    138 | Vcenter-partitio             | CHECK_PARTITION_ALIVE     | CRITICAL      | CRITICAL - Host Unreachable (172.29.1.1)
+    136 | sles121444892057149          | CHECK_PARTITION_ALIVE     | CRITICAL      | CRITICAL - Host Unreachable (172.29.1.2)
+    135 | ffm-partition1444892218357   | CHECK_PARTITION_ALIVE     | CRITICAL      | CRITICAL - Host Unreachable (172.29.1.4)
+    134 | sles111444891930737          | CHECK_PARTITION_ALIVE     | CRITICAL      | CRITICAL - Host Unreachable (172.29.1.1)
+    133 | sles11_1444048731            | CHECK_PARTITION_ALIVE     | CRITICAL      | CRITICAL - Host Unreachable (172.29.1.1)
+    132 | sles11_1444048617            | CHECK_PARTITION_ALIVE     | CRITICAL      | CRITICAL - Host Unreachable (172.29.1.1)
+      7 | sles11_1444048492            | CHECK_PARTITION_ALIVE     | CRITICAL      | CRITICAL - Host Unreachable (172.29.1.1)
